@@ -8,7 +8,7 @@ const App = () => {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-r from-blue-400 to-purple-500 flex items-center justify-center">
+    <div className="min-h-screen bg-gradient-to-r from-green-400 to-blue-500 flex items-center justify-center">
       <div className="bg-white p-8 rounded-lg shadow-md w-96">
         <h1 className="text-3xl font-bold mb-6 text-center text-gray-800">React Input Field</h1>
         <div className="mb-4">
